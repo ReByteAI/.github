@@ -1,7 +1,7 @@
 ## Welcome to G1G2 labs 👋
 
-🙋‍♀️ What we build?
-** We build a SAAS platform to enable any BUIDLer to build his own rollups in 5 minutes
+###🙋‍♀️ What we build?
+## We build a SAAS platform to enable any BUIDLer to build his own rollups in 5 minutes
 
 
 <!--

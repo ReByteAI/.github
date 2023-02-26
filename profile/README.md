@@ -5,6 +5,7 @@
 
 👩‍💻 Useful resources - where we are now?
 ### website: [g1g2.xyz](https://g1g2.xyz)
+### We are schedule to launch test platform in Mar, 2023, you can apply early access from our website.
 
 
 

@@ -1,7 +1,6 @@
-## Welcome to G1G2 labs 👋
+## Welcome to ReRule 👋
 
 🙋‍♀️ What we build?
-### We build a SAAS platform to enable any BUIDLer to build his own rollups in 5 minutes
 
 👩‍💻 Useful resources - where we are now?
 ### website: [g1g2.xyz](https://g1g2.xyz)
